@@ -1,0 +1,25 @@
+.card{
+   background-color: var(--secondary-color);
+  
+   
+}
+input[type =text], input[type =email]{
+    height: 60px;
+    padding-left: 20px;
+    font-size: 13px;
+    width: 100%;
+}
+.btn-sub{
+    height: 58px;
+    border: none;
+    font-size: 13px;
+    color: beige;
+    background-color: var(--primary-color);
+}
+.subs-text{
+    color: var(--body-text-color);
+
+}
+h3{
+    color: var(--body-text-color);
+}
